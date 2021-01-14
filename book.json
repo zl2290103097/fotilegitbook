@@ -12,7 +12,7 @@
     },
     "links": {
         "sidebar": {
-            "我的主页": "https://www.baidu.com"
+            "我的主页": "https://zl2290103097.github.io/fotilegitbook/"
         }
     },
     "plugins": [
@@ -20,9 +20,9 @@
         "splitter",
         "expandable-chapters-small",
         "anchors",
-        "github",
-        "github-buttons",
-        "donate",
+        "-github",
+        "-github-buttons",
+        "-donate",
         "sharing-plus",
         "anchor-navigation-ex",
         "favicon",
@@ -31,7 +31,7 @@
     ],
     "pluginsConfig": {
         "github": {
-            "url": "https://github.com/fotile"
+            "url": "https://zl2290103097.github.io/fotilegitbook/"
         },
         "github-buttons": {
             "buttons": [{
