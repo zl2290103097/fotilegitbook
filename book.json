@@ -28,7 +28,14 @@
         "anchor-navigation-ex",
         "favicon",
         "search-plus",
-        "copy-code-button"
+        "copy-code-button",
+        "hide-element",
+        "back-to-top-button",
+        "code" ,
+        "-lunr", 
+        "-search", 
+        "search-pro",
+        "popup"
     ],
     "pluginsConfig": {
         "github": {
@@ -84,6 +91,9 @@
                 "120x120": "./source/images/apple-touch-icon.jpg",
                 "180x180": "./source/images/apple-touch-icon.jpg"
             }
+        },
+        "hide-element": {
+            "elements": [".gitbook-link"]
         }
     }
 }
